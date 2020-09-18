@@ -9,12 +9,13 @@
 
 
 <details>
-<summary>🤝 <b>To connect with me</b></summary>
+<summary>🤝 <b>Pour me contacter</b></summary>
 
 <p align = "center">
 
-  [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://Adrien-25.github.io/)
+  [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://adriens.promo-39.codeur.online/portfolio/)
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/)
+  [<img src="https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&color=red&22" />](adrien.schmidt7@gmail)
 </p>
 
 </details>
