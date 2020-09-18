@@ -4,7 +4,7 @@
  
 - 💼 Je recherche actuellement un stage pour valider ma formation qui se déroulera du 12/10/2020 au 07/12/2020
 - 🌱 Quelques languages sur lesquelles je développe :  Javascript / HTML5 / CSS3 / PHP / Sass / MySQL / Python
-- 🌐 Visit my [porfolio website](https://adriens.promo-39.codeur.online/portfolio/) for complete background and contact.
+- 🌐 Visitez mon [porfolio](https://adriens.promo-39.codeur.online/portfolio/).
 
 
 
@@ -15,7 +15,7 @@
 
   [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://adriens.promo-39.codeur.online/portfolio/)
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/)
-  [<img src="https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&color=red&22" />](adrien.schmidt7@gmail)
+  [<img src="https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=&logoColor=white&color=red&22" />](adrien.schmidt7@gmail)
 </p>
 
 </details>
