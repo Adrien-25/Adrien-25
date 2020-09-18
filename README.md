@@ -1,26 +1,42 @@
-### Hi there 👋
+### Bonjour 👋 Je suis Adrien !
+
+ Passioné par la programmation informatique, je suis actuellement apprenant à l'Access Code School pour préparer un Titre Professionnel de Développeur web et web mobile. 
+ 
+- 💼 Je recherche actuellement un stage pour valider ma formation qui se déroulera du 12/10/2020 au 07/12/2020
+- 🌱 Quelques languages sur lesquelles je développe :  Javascript / HTML5 / CSS3 / PHP / Sass / MySQL / Python
+- 🌐 Visit my [porfolio website](https://adriens.promo-39.codeur.online/portfolio/) for complete background and contact.
+
+
+
+<details>
+<summary>🤝 <b>To connect with me</b></summary>
+
+<p align = "center">
+
+  [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://Adrien-25.github.io/)
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/)
+</p>
+
+</details>
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Adrien-25&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adrien-25&hide=css,java,html&theme=tokyonight">
+</p>
+
+</details>
+
 
 <!--
 **Adrien-25/Adrien-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
