@@ -21,7 +21,7 @@
 </details>
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary> 😇 <b>Mes statistiques Github</b>: </summary>
 
 <br>
 
