@@ -4,7 +4,7 @@
  
 - 💼 Je recherche actuellement un stage pour valider ma formation qui se déroulera du 12/10/2020 au 07/12/2020
 - 🌱 Quelques languages sur lesquelles je développe :  Javascript / HTML5 / CSS3 / PHP / Sass / MySQL / Python
-- 🌐 Visitez mon [porfolio](https://adriensschmidt.fr/portfolio/).
+- 🌐 Visitez mon [porfolio](https://adrienschmidt.fr/portfolio/).
 
 
 
