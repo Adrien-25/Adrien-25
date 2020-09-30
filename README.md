@@ -20,7 +20,7 @@
 
 </details>
 
-<details open>
+<details>
  <summary> 😇 <b>Mes statistiques Github</b>: </summary>
 
 <br>
