@@ -1,6 +1,6 @@
 ### Bonjour 👋 Je suis Adrien !
 
- Passioné par la programmation informatique, je suis actuellement apprenant à l'Access Code School pour préparer un Titre Professionnel de Développeur web et web mobile. 
+ Passioné par la programmation informatique, je suis actuellement Développeur Web à [Web Hors Piste](https://www.webhorspiste.com/), une Agence de Marketing Digital pour préparer un Bachelor de Concepteur Développeur Web. 
  
 - 🌱 Quelques languages sur lesquelles je développe :  Javascript / HTML5 / CSS3 / PHP / Sass / MySQL / Python
 - 🌐 Visitez mon [porfolio](https://adrienschmidt.fr/portfolio/).
@@ -13,7 +13,7 @@
 <p align = "center">
 
   [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://adrienschmidt.fr/portfolio/)
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/)
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/](https://www.linkedin.com/in/adrien-schmidt-2747871a2/))
   [<img src="https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=&logoColor=white&color=red&22" />](mailto:adrien.schmidt7@gmail.com)
 </p>
 
