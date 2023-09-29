@@ -1,6 +1,6 @@
 ### Hi there, I'm Adrien Schmidt! 👋
 
-I'm a Fullstack Web Developer based in [Annecy]. I'm passionate about exploring and learning new technologies. Here's a bit about my journey:
+I'm a Fullstack Web Developer based in Annecy. I'm passionate about exploring and learning new technologies. Here's a bit about my journey:
 
 ### 🔧 Skills and Tools
 - 💻 Programming Languages: Javascript / HTML5 / CSS3 / PHP / Sass / MySQL / Python
