@@ -1,23 +1,35 @@
-### Bonjour 👋 Je suis Adrien !
+### Hi there, I'm Adrien Schmidt! 👋
 
- Passioné par la programmation informatique, je suis actuellement Développeur Web à [Web Hors Piste](https://www.webhorspiste.com/), une Agence de Marketing Digital pour préparer un Bachelor de Concepteur Développeur Web. 
- 
-- 🌱 Quelques languages sur lesquelles je développe :  Javascript / HTML5 / CSS3 / PHP / Sass / MySQL / Python
-- 🌐 Visitez mon [porfolio](https://adrienschmidt.fr/portfolio/).
+I'm a Fullstack Web Developer based in [Annecy]. I'm passionate about exploring and learning new technologies. Here's a bit about my journey:
 
+### 🔧 Skills and Tools
+- 💻 Programming Languages: Javascript / HTML5 / CSS3 / PHP / Sass / MySQL / Python
+- 🛠️ Frameworks: 
+- 🌐 Web Development
+- 🐳 Docker
+- 🧲 Git / GitHub
 
+### 💪 Hobbies
 
-<details>
-<summary>🤝 <b>Pour me contacter</b></summary>
+Outside of coding, I have a diverse range of interests:
 
-<p align = "center">
+- 🏋️‍♂️ Staying active and enjoying sports
+- 💹 Exploring the world of trading
+- 🎸 Playing the guitar
+- ⌨️ Configuring and improving my Neovim setup
+- 💻 Contributing to open source projects whenever possible
+- 🧠 Always eager to learn something new
 
-  [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://adrienschmidt.fr/portfolio/)
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adrien-schmidt-2747871a2/)
-  [<img src="https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=&logoColor=white&color=red&22" />](mailto:adrien.schmidt7@gmail.com)
-</p>
+### 📫 Contact Information
 
-</details>
+Feel free to reach out to me:
+
+- 📧 Email: adrien.schmidt7@gmail.com
+[<img src="https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=&logoColor=white&color=red&22" />](mailto:adrien.schmidt7@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adrien-schmidt-2747871a2/)
+
+Let's connect and share our knowledge! 🚀
+
 
 <details>
  <summary> 😇 <b>Mes statistiques Github</b>: </summary>
