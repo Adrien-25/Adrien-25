@@ -24,7 +24,6 @@ Outside of coding, I have a diverse range of interests:
 
 Feel free to reach out to me:
 
-- 📧 Email: adrien.schmidt7@gmail.com
 [<img src="https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=&logoColor=white&color=red&22" />](mailto:adrien.schmidt7@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adrien-schmidt-2747871a2/)
 
