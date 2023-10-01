@@ -3,9 +3,9 @@
 I'm a Fullstack Web Developer based in Annecy. I'm passionate about exploring and learning new technologies. Here's a bit about my journey:
 
 ### 🔧 Skills and Tools
-- 💻 Programming Languages: Javascript / HTML5 / CSS3 / PHP / Sass / MySQL / Python
-- 🛠️ Frameworks: 
-- 🌐 Web Development
+- 💻 Programming Languages: Javascript / HTML5 / CSS3 / PHP / Sass / MySQL / Python / Java 
+- 🛠️ Frameworks: React / Angular / Laravel / Vue / Bootstrap / Tailwind
+- 🌐 Web Development 
 - 🐳 Docker
 - 🧲 Git / GitHub
 
@@ -15,10 +15,9 @@ Outside of coding, I have a diverse range of interests:
 
 - 🏋️‍♂️ Staying active and enjoying sports
 - 💹 Exploring the world of trading
-- 🎸 Playing the guitar
-- ⌨️ Configuring and improving my Neovim setup
-- 💻 Contributing to open source projects whenever possible
-- 🧠 Always eager to learn something new
+- 🎾 Intensive tennis practice
+- 🎧 Listening music
+- 🧠 Always enthusiastic about learning something new
 
 ### 📫 Contact Information
 
