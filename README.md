@@ -25,7 +25,7 @@ Feel free to reach out to me:
 
 [<img src="https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=&logoColor=white&color=red&22" />](mailto:adrien.schmidt7@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adrien-schmidt-2747871a2/)
-[<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=&color=green" />](https://adrien-schmidt.netlify.app/)
+[<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=&color=brown" />](https://adrien-schmidt.netlify.app/)
 
 
 Let's connect and share our knowledge! 🚀
